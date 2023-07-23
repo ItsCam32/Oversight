@@ -7,7 +7,7 @@ Oversight is a 3D aerial defence shooter created as a solo project for a final y
 <h2>Media</h2>
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Media GIF"/>
+<img src="https://giphy.com/embed/aQ7rCsGPVEQ2hJy08y" height="80%" width="80%" alt="Media GIF"/>
 <br />
 <br />
 <img src="https://i.imgur.com/jW2D4Lp.jpg" height="80%" width="80%" alt="Media Image"/>
